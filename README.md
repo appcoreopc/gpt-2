@@ -17,7 +17,7 @@ conda create -n gpt2
 
 1. pip install -r requirements.txt 
 
-2. pip install tensorflow 
+2. pip install --upgrade tensorflow==1.14
 
 3. pip install wrapt --upgrade --ignore-installed
 
