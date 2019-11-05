@@ -19,6 +19,10 @@ conda create -n gpt2
 
 2. pip install tensorflow 
 
+3. pip install wrapt --upgrade --ignore-installed
+
+4. pip install tensorflow_estimator
+
 
 python download_model.py 124M 
 
@@ -27,8 +31,7 @@ python download_model.py 355M
 python download_model.py 774M 
 
 
- 
-
+Goto c: 
 
 
 # gpt-2
