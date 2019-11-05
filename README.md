@@ -3,7 +3,15 @@
 
 ### Start working with it 
 
+
+
+
+
 ##### Instructions #######
+
+(install the dependencies)
+
+pip install -r requirements.txt 
 
 python download_model.py 124M 
 
