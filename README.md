@@ -11,7 +11,14 @@
 
 (install the dependencies)
 
-pip install -r requirements.txt 
+Preliminaries :- create your environment using 
+
+conda create -n gpt2 
+
+1. pip install -r requirements.txt 
+
+2. pip install tensorflow 
+
 
 python download_model.py 124M 
 
