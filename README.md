@@ -1,5 +1,16 @@
 **Status:** Archive (code is provided as-is, no updates expected)
 
+
+Start working with it 
+
+
+python download_model.py 124M  or 
+python download_model.py 355M or 
+python download_model.py 774M or 
+ 
+
+
+
 # gpt-2
 
 Code from the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
