@@ -1,12 +1,17 @@
 **Status:** Archive (code is provided as-is, no updates expected)
 
 
-Start working with it 
+### Start working with it 
+
+##### Instructions #######
+
+python download_model.py 124M 
+
+python download_model.py 355M
+
+python download_model.py 774M 
 
 
-python download_model.py 124M  or 
-python download_model.py 355M or 
-python download_model.py 774M or 
  
 
 
