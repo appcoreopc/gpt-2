@@ -28,7 +28,7 @@ python download_model.py 355M
 
 python download_model.py 774M 
 
-Move modules into src folder. 
+Move models (that you downloaded) into src folder. 
 
 Then run 
 
