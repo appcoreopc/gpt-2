@@ -21,8 +21,6 @@ conda create -n gpt2
 
 3. pip install wrapt --upgrade --ignore-installed
 
-4. pip install tensorflow_estimator
-
 
 python download_model.py 124M 
 
@@ -30,8 +28,13 @@ python download_model.py 355M
 
 python download_model.py 774M 
 
+Move modules into src folder. 
 
-Goto c: 
+Then run 
+
+generate_unconditional_samples.py
+
+And let the magic take its course.... :)
 
 
 # gpt-2
